@@ -1,7 +1,7 @@
 {
   "name": "scrimba-vscode-theme",
   "displayName": "Scrimba",
-  "description": "Make your VS Code look like Scrimba",
+  "description": "Make your VS Code look like the Scrimba editor",
   "version": "0.1.1",
   "author": {
     "name": "Aadil Ayub"

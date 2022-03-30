@@ -6,3 +6,7 @@
 ## License
 
 [MIT License](./LICENSE)
+
+## Credits
+
+This theme is based on https://github.com/drkcode/scrimba-dark-theme
