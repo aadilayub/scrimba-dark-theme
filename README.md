@@ -1,6 +1,7 @@
 # Scrimba Theme for VS Code
 
-![image](https://user-images.githubusercontent.com/31581044/160593654-e44705bf-3c70-4594-b802-0079a5d62d0f.png)
+![image](https://user-images.githubusercontent.com/31581044/160749175-2894d3a1-b3bb-4cb0-b26b-425d3b200226.png)
+
 
 ## License
 
