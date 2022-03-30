@@ -1,17 +1,17 @@
 {
-  "name": "scrimba-dark-theme",
-  "displayName": "Scrimba Dark Theme by drkcode",
-  "description": "Dark theme inspired by Scrimba.",
-  "version": "0.1.1",
+  "name": "scrimba-vscode-theme",
+  "displayName": "Scrimba",
+  "description": "Make your VS Code look like Scrimba",
+  "version": "0.1",
   "author": {
-    "name": "Darlisson Limeira"
+    "name": "Aadil Ayub"
   },
   "engines": {
     "vscode": "^1.63.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/drkcode/scrimba-dark-theme"
+    "url": "https://github.com/aadilayub/scrimba-vscode-theme"
   },
   "keywords": [
     "dark theme",
@@ -22,7 +22,8 @@
     "cold",
     "theme",
     "minimalist",
-    "pastel"
+    "pastel",
+	"scrimba"
   ],
   "galleryBanner": {
     "color": "#212329",
@@ -32,19 +33,14 @@
   "categories": [
     "Themes"
   ],
-  "homepage": "https://github.com/drkcode/scrimba-dark-theme/blob/main/README.md",
-  "publisher": "drkcode",
+  "homepage": "https://github.com/aadilayub/scrimba-vscode-theme/blob/main/README.md",
+  "publisher": "aadilayub",
   "contributes": {
     "themes": [
       {
-        "label": "Scrimba Dark Theme",
+        "label": "Scrimba",
         "uiTheme": "vs-dark",
-        "path": "./themes/scrimba-dark-theme.json"
-      },
-      {
-        "label": "Scrimba Dark Theme Editing",
-        "uiTheme": "vs-dark",
-        "path": "./themes/scrimba-dark-theme-editing.json"
+        "path": "./themes/scrimba-theme.json"
       }
     ]
   }
